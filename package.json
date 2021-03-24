@@ -1,0 +1,8 @@
+{
+  "name": "css_animation",
+  "version": "1.0.0",
+  "description": "CSS Animation",
+  "main": "index.js",
+  "author": "maxlxq",
+  "license": "MIT"
+}
