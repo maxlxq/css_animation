@@ -1,7 +1,7 @@
 {
   "name": "css_animation",
   "version": "1.0.0",
-  "description": "CSS Animation",
+  "description": "CSS Animation 动画特效",
   "main": "index.js",
   "author": "maxlxq",
   "license": "MIT"
